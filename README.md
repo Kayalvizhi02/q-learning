@@ -62,15 +62,17 @@ def q_learning(env,
 ```
 ## OUTPUT:
 ### Optimal policy, optimal value function , success rate for the optimal policy.
-![image](https://github.com/Kayalvizhi02/q-learning/assets/75413726/722f88f0-23fb-40bf-9ee3-a6432d12566c)
-![image](https://github.com/Kayalvizhi02/q-learning/assets/75413726/49c96488-eec0-4fe0-a489-fd66a0d92432)
+
+![image](https://github.com/Kayalvizhi02/q-learning/assets/75413726/553bc9ce-920c-48ce-8830-7c716ab97e12)
+
 
 ### State value functions of Monte Carlo method:
 
-![image](https://github.com/Kayalvizhi02/q-learning/assets/75413726/f7ef8f5b-b42f-4a79-b527-cf66bef04b08)
+![image](https://github.com/Kayalvizhi02/q-learning/assets/75413726/9065bfa5-7d6c-4432-b427-250f2871bc9e)
 
 ### State value functions of Qlearning method:
-![image](https://github.com/Kayalvizhi02/q-learning/assets/75413726/1757c4b6-e2fa-490c-b2e1-e15ff0f55d00)
+
+![image](https://github.com/Kayalvizhi02/q-learning/assets/75413726/465c2fc9-454f-462e-8c63-4096558a3b8f)
 
 ## RESULT:
 
