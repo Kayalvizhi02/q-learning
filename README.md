@@ -109,6 +109,11 @@ def q_learning(env,
 <br>
 <br>
 
+<br>
+<br>
+<br>
+<br>
+
 ### State value functions of Monte Carlo method:
 
 ![image](https://github.com/Kayalvizhi02/q-learning/assets/75413726/9065bfa5-7d6c-4432-b427-250f2871bc9e)
