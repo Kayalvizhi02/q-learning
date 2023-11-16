@@ -24,6 +24,9 @@ Implement the Monte Carlo method to estimate state values.
 ### Step 5:
 Compare Q-Learning policy and state values with Monte Carlo results for the given RL environment.
 
+<br>
+<br>
+
 ## Q LEARNING FUNCTION
 ```python
 # Developed by: Kayalvizhi M
@@ -64,6 +67,12 @@ def q_learning(env,
     pi=lambda s:{s:a for s,a in enumerate(np.argmax(Q,axis=1))}[s]
     return Q, V, pi, Q_track, pi_track
 ```
+
+<br>
+<br>
+<br>
+<br>
+
 ## OUTPUT:
 ### Optimal policy, optimal value function , success rate for the optimal policy.
 
