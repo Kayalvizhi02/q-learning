@@ -1,4 +1,4 @@
-### EX NO: 06
+### EX NO: 07
 ### DATE:
 # <p align="center">Q Learning Algorithm</p>
 
