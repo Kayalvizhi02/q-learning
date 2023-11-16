@@ -26,6 +26,8 @@ Compare Q-Learning policy and state values with Monte Carlo results for the give
 
 <br>
 <br>
+<br>
+<br>
 
 ## Q LEARNING FUNCTION
 ```python
@@ -68,6 +70,10 @@ def q_learning(env,
     return Q, V, pi, Q_track, pi_track
 ```
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
